@@ -26,7 +26,8 @@
     "semantic-release": "semantic-release"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "keywords": [
     "react-native",
@@ -38,14 +39,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Woonivers/react-native-document-scanner"
+    "url": "https://github.com/Ashutosh-Gautam/react-native-document-scanner"
   },
-  "author": "Woonivers (https://woonivers.com)",
+  "author": "Ashutosh Gautam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Woonivers/react-native-document-scanner/issues"
+    "url": "https://github.com/Ashutosh-Gautam/react-native-document-scanner/issues"
   },
-  "homepage": "https://github.com/Woonivers/react-native-document-scanner#readme",
+  "homepage": "https://github.com/Ashutosh-Gautam/react-native-document-scanner#readme",
   "devDependencies": {
     "@babel/runtime": "^7.5.5",
     "@commitlint/config-conventional": "^8.0.0",
